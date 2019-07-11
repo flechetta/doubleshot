@@ -1,5 +1,5 @@
 # doubleshot
-I wrote this two line script in preparation for the a certain pen-testin course, to create good screenshot logging. 
+I wrote this two line script in preparation for the a certain pen-testing course, to create good screenshot logging. 
 I needed my screenshots to be saved to the picture folder - in order to attach as raw picture.
 I also wanted to be able to clip part of the picture - in order to paste in a Cherry Tree report.
 Therefore - Doubleshot.
