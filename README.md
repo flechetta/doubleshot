@@ -10,7 +10,7 @@ Than it will prompt you to select a part of the screen and it will be in your cl
 Here is how to set it up (this is for Kali linux, with gnome - adjust as needed):
 1. First install gnome-screenshot.
 2. Download the script and place it an folder 
-3. Allow excusion with :"chmod +x doubleshoot.sh"
+3. Allow excusion with :"chmod +x doubleshot.sh"
 4. Go to your settings (Top right downward arrow, and click the wrench and screwdriver).
 5. Select Devices > Keyboard.
 6. Go all the way to the buttom and create a new shortcut.
